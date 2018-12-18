@@ -1,0 +1,4 @@
+# <img src="http://www.carlosicaza.com/wp-content/uploads/2014/07/Swift-logo.png" width="24"> Lesson 04 ![training framgia](https://img.shields.io/badge/training-framgia-orange.svg)
+<img src="https://github.com/tienpx3010/Lesson-04/blob/master/Images/View_01.png?raw=true" alt="" width="300px"> <img src="https://github.com/tienpx3010/Lesson-04/blob/master/Images/View_02.png?raw=true" alt="" width="300px"> 
+
+<img src="https://github.com/tienpx3010/Lesson-04/blob/master/Images/View_03.png?raw=true" alt="" width="300px"> <img src="https://github.com/tienpx3010/Lesson-04/blob/master/Images/View_04.png?raw=true" alt="" width="300px">
